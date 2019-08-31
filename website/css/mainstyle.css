@@ -244,9 +244,11 @@ section.artists-odd img, section.artists-even img {
 */
 /* Footer styling */
 footer {
+	 font-size: 18px;
+    font-weight: bold;
     width: 100%;
     height: auto;
-    background-color: #e6e6ff;
+    background-color: light pink;
     z-index: 1000;
 }
 
@@ -263,8 +265,9 @@ ul.quick-links li {
 }
 
 footer p {
+	text: bold;
     text-align: center;
-    color: #003366;
+    color: #CD5C5C;
     padding: 20px;
 }
 
